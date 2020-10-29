@@ -13,7 +13,7 @@ Looking for easier(or better) ways to implement it, I came across the [GF(256)](
 
 The only disadvantage is that the number of shares cannot exceed 255. 
 
-The code at src/Shamir.hs takes inspiration from [codahale/hs-shamir](github.com/codahale/hs-shamir). A commented-out prime-field implementation of the same algorithm is also included.
+The code at [src/Shamir.hs](src/Shamir.hs) takes inspiration from [codahale/hs-shamir](https://github.com/codahale/hs-shamir). A commented-out prime-field implementation of the same algorithm is also included.
 
 ## Usage
 
